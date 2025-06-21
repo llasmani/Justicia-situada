@@ -4,7 +4,7 @@ layout: default
 ---
 
 # Justicia situada y pensamiento interseccional crítico desde el Sur Global
-
+🔍 [Leer presentación del proyecto](presentacion.md)
 **Autor:** llasmani lópez valdés  
 🔗 [Ver publicación en Zenodo](https://doi.org/10.5281/zenodo.15335094)  
 📄 Licencia: CC BY-NC-SA 4.0
