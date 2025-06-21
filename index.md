@@ -45,7 +45,7 @@ Esta página difunde una propuesta académica crítica que articula:
 
 **llasmani lópez valdés**  
 🐦 Twitter/X: [@Llasmaniv](https://x.com/LlasmaniV?t=Bfv82tEoeBWRebqV_pgz1A&s=09).
-🔗.[✉️: llasmanilopez1@gmail.com](llasmanilopez1@gmail.com)
+🔗✉️ [llasmanilopez1@gmail.com](mailto:llasmanilopez1@gmail.com)
 
 ---
 
