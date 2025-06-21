@@ -1,1 +1,6 @@
-
+title: Justicia situada
+description: Propuesta crítica desde el Sur Global: violencia interseccional, justicia situada y descolonización epistémica
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
