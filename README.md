@@ -1,6 +1,6 @@
 # Justicia Situada y Pensamiento Interseccional Crítico desde el Sur Global
 
-Este repositorio alberga el proyecto académico de **llasmani lópez valdés**, centrado en la crítica al orden ontoepistémico moderno desde una perspectiva interseccional, situada y descolonial. Aquí se sistematiza la propuesta teórica, política y jurídica de incorporar la violencia interseccional y la justicia situada en el marco normativo mexicano y latinoamericano.
+Este repositorio alberga el proyecto académico de **Llasmani lópez valdés**, centrado en la crítica al orden ontoepistémico moderno desde una perspectiva interseccional, situada y descolonial. Aquí se sistematiza la propuesta teórica, política y jurídica de incorporar la violencia interseccional y la justicia situada en el marco normativo mexicano y latinoamericano.
 
 ---
 
@@ -18,7 +18,7 @@ Desarrolla la crítica a la episteme moderna colonial, la propuesta ontoepistém
 Define los conceptos clave de la propuesta, como violencia interseccional, interseccionalidad negativa/positiva/híbrida, injusticia epistémica, y más.
 
 ### Recursos 
-📁 [`recursos/publicaciones.md`](recursos/publicaciones.md)
+📁 [`Recursos/Publicaciones.md`](Recursos/Publicaciones.md)
 Contiene recursos como publicaciones, archivos, conferencias, enlaces
 
 ---
