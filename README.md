@@ -18,7 +18,7 @@ Desarrolla la crítica a la episteme moderna colonial, la propuesta ontoepistém
 Define los conceptos clave de la propuesta, como violencia interseccional, interseccionalidad negativa/positiva/híbrida, injusticia epistémica, y más.
 
 ### Recursos 
-📁 [Recursos/Publicaciones.md] (Recursos/Publicaciones.md)
+📁 [`recursos/publicaciones.md`](recursos/publicaciones.md)
 Contiene recursos como publicaciones, archivos, conferencias, enlaces
 
 ---
