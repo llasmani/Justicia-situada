@@ -17,10 +17,9 @@ Desarrolla la crítica a la episteme moderna colonial, la propuesta ontoepistém
 📁 [`glosario-conceptual/glosario-conceptual.md`](glosario-conceptual/glosario-conceptual.md)  
 Define los conceptos clave de la propuesta, como violencia interseccional, interseccionalidad negativa/positiva/híbrida, injusticia epistémica, y más.
 
-### Publicación en Zenodo
-📄 [`enlaces/zenodo.txt`](enlaces/zenodo.txt)  
-Contiene el enlace directo a la publicación en Zenodo:  
-🔗 https://doi.org/10.5281/zenodo.15335094
+### Recursos 
+📁 [Recursos/Publicaciones.md] (Recursos/Publicaciones.md)
+Contiene recursos como publicaciones, archivos, conferencias, enlaces
 
 ---
 
