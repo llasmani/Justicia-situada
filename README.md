@@ -20,7 +20,7 @@ Define los conceptos clave de la propuesta, como violencia interseccional, inter
 ### Publicación en Zenodo
 📄 [`enlaces/zenodo.txt`](enlaces/zenodo.txt)  
 Contiene el enlace directo a la publicación en Zenodo:  
-🔗 https://zenodo.org/doi/10.5281/zenodo.11187384
+🔗 https://doi.org/10.5281/zenodo.15335094
 
 ---
 
@@ -47,7 +47,7 @@ Reivindicamos una **justicia interseccional situada** que escuche, repare y tran
 Para colaboraciones, citas académicas o proyectos conjuntos:
 
 **Autor:** llasmani lópez valdés  
-**Zenodo:** [zenodo.org/doi/10.5281/zenodo.11187384](https://zenodo.org/doi/10.5281/zenodo.11187384)
+**mail:** (llasmanilopez1@gmail.com)
 
 ---
 
