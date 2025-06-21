@@ -6,7 +6,7 @@ layout: default
 # Justicia situada y pensamiento interseccional crítico desde el Sur Global
 
 **Autor:** llasmani lópez valdés  
-🔗 [Ver publicación en Zenodo](https://zenodo.org/doi/10.5281/zenodo.11187384)  
+🔗 [Ver publicación en Zenodo](https://doi.org/10.5281/zenodo.15335094)  
 📄 Licencia: CC BY-NC-SA 4.0
 
 ---
@@ -44,8 +44,8 @@ Esta página difunde una propuesta académica crítica que articula:
 ## 📬 Contacto
 
 **llasmani lópez valdés**  
-🐦 Twitter/X: [@llasmani](https://x.com/llasmani)  
-🔗 Zenodo: [zenodo.org/doi/10.5281/zenodo.11187384](https://zenodo.org/doi/10.5281/zenodo.11187384)
+🐦 Twitter/X: [@Llasmaniv](https://x.com/LlasmaniV?t=Bfv82tEoeBWRebqV_pgz1A&s=09).
+🔗.[✉️: llasmanilopez1@gmail.com](llasmanilopez1@gmail.com)
 
 ---
 
