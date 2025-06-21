@@ -31,7 +31,7 @@ Este proyecto propone una plataforma abierta y situada para el desarrollo, difus
 - Recursos: vínculos a publicaciones, legislación, jurisprudencia, redes y colectivos
 - Propuesta de reforma jurídica: articulada y justificada con base en tu teoría
 - Página web académica: publicada en GitHub Pages
-- Publicación en Zenodo: [https://zenodo.org/doi/10.5281/zenodo.TU-DOI-AQUÍ](https://zenodo.org/doi/10.5281/zenodo.TU-DOI-AQUÍ)
+- Publicación en Zenodo: [https://doi.org/10.5281/zenodo.15335094](https://doi.org/10.5281/zenodo.15335094).
 - En desarrollo: asistente epistémico (Chat temático)
 
 ---
