@@ -1,5 +1,5 @@
 ---
-title: Justicia situada y pensamiento interseccional crítico desde el Sur Global
+title: Justicia situada
 layout: default
 ---
 
