@@ -5,3 +5,53 @@ Este repositorio alberga el proyecto académico de **llasmani lópez valdés**, 
 ---
 
 ## 📚 Estructura del repositorio
+---
+
+## 🔍 Contenidos principales
+
+### Marco Teórico
+📁 [`marco-teorico/marco-teorico.md`](marco-teorico/marco-teorico.md)  
+Desarrolla la crítica a la episteme moderna colonial, la propuesta ontoepistémica relacional, y el marco conceptual de justicia interseccional situada.
+
+### Glosario Conceptual
+📁 [`glosario-conceptual/glosario-conceptual.md`](glosario-conceptual/glosario-conceptual.md)  
+Define los conceptos clave de la propuesta, como violencia interseccional, interseccionalidad negativa/positiva/híbrida, injusticia epistémica, y más.
+
+### Publicación en Zenodo
+📄 [`enlaces/zenodo.txt`](enlaces/zenodo.txt)  
+Contiene el enlace directo a la publicación en Zenodo:  
+🔗 https://zenodo.org/doi/10.5281/zenodo.11187384
+
+---
+
+## ✊ Causa y propósito
+
+Esta propuesta surge de la urgencia por visibilizar y proteger los casos de violencia compuesta contra personas que contradicen la cisheteronormatividad y enfrentan múltiples ejes de opresión estructural.
+
+Reivindicamos una **justicia interseccional situada** que escuche, repare y transforme los cimientos coloniales del derecho moderno.
+
+---
+
+## 🤝 Colectivos aliados sugeridos
+
+- [CONAPRED](https://www.gob.mx/conapred)  
+- [Letra S, Sida, Cultura y Vida Cotidiana A.C.](https://letraese.org.mx/)  
+- [Casa Frida Refugio LGBTQ+](https://www.casafrida.org/)  
+- [Yaaj México](https://yaajmexico.org/)  
+- [El Clóset de Sor Juana A.C.](https://closetdesorjuana.org.mx/)
+
+---
+
+## 📬 Contacto
+
+Para colaboraciones, citas académicas o proyectos conjuntos:
+
+**Autor:** llasmani lópez valdés  
+**Zenodo:** [zenodo.org/doi/10.5281/zenodo.11187384](https://zenodo.org/doi/10.5281/zenodo.11187384)
+
+---
+
+## 🧠 Licencia
+
+Este trabajo se comparte bajo los principios de acceso abierto, con reconocimiento autoral.  
+**Licencia:** Creative Commons — Atribución-NoComercial-CompartirIgual (CC BY-NC-SA)
