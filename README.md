@@ -44,10 +44,12 @@ Reivindicamos una **justicia interseccional situada** que escuche, repare y tran
 
 ## 📬 Contacto
 
-Para colaboraciones, citas académicas o proyectos conjuntos:
+Si te interesa colaborar, debatir, invitar a foros, citar o fortalecer esta propuesta, puedes escribir a:
 
 **Autor:** llasmani lópez valdés  
-**mail:** (llasmanilopez1@gmail.com)
+📨 Correo(llasmanilopez1@gmail.com)  
+🐦 Twitter/X:(https://x.com/LlasmaniV?t=bRZ_Z6gt_UMk0wuOCx9kSA&s=09)  
+📚 Proyecto: *Justicia situada y pensamiento interseccional crítico desde el Sur Global* 
 
 ---
 
