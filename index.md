@@ -5,50 +5,8 @@ subtitle: Un chat para construir pensamiento crítico colectivo y otros mundos d
 banner: true
 ---
 
-# Justicia situada y pensamiento interseccional crítico desde el Sur Global
-🔍 [Leer presentación del proyecto](presentacion.md)
-**Autor:** llasmani lópez valdés  
-🔗 [Ver publicación en Zenodo](https://doi.org/10.5281/zenodo.15335094)  
-📄 Licencia: CC BY-NC-SA 4.0
+## Presentación del proyecto
 
----
+Este sitio surge como una herramienta epistemológica viva y situada, que busca romper con el orden ontoepistémico colonial moderno. Aquí se articula un marco teórico original que da nombre a lo que la ley y el lenguaje dominante no han querido ver: la violencia interseccional, la justicia situada, y las formas de conocimiento encarnado.
 
-## 🌎 Propósito
-
-Esta página difunde una propuesta académica crítica que articula:
-
-- 📚 Interseccionalidad negativa, positiva e híbrida  
-- ⚖️ Violencia interseccional como categoría jurídica ausente  
-- 🧠 Crítica al orden ontoepistémico moderno y al derecho positivista  
-- ✊ Justicia situada, descolonial y contra el extractivismo epistémico
-
----
-
-## 📂 Contenidos del repositorio
-
-- 📘 [Presentación del proyecto](presentacion/presentacion.md)
-- 📚 [Marco teórico](marco-teorico/marco-teorico.md)
-- 🧠 [Glosario conceptual](glosario-conceptual/glosario-conceptual.md)
-- 📎 [Recursos/Publicaciones](Recursos/Publicaciones.md)
-- 🤝 [Cómo contribuir](CONTRIBUTING.md)
-
----
-
-## 🤝 Colectivos aliados
-
-- [Letra S A.C.](https://letraese.org.mx/)
-- [Casa Frida Refugio LGBTQ+](https://www.casafrida.org/)
-- [Yaaj México](https://yaajmexico.org/)
-- [El Clóset de Sor Juana A.C.](https://closetdesorjuana.org.mx/)
-
----
-
-## 📬 Contacto
-
-**llasmani lópez valdés**  
-🐦 Twitter/X: [@Llasmaniv](https://x.com/LlasmaniV?t=Bfv82tEoeBWRebqV_pgz1A&s=09).
-🔗✉️ [llasmanilopez1@gmail.com](mailto:llasmanilopez1@gmail.com)
-
----
-
-© Este sitio se distribuye bajo [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.es)
+Puedes explorar los conceptos fundamentales, acceder a publicaciones clave, y próximamente interactuar con el **chat temático** construido con IA crítica desde el Sur Global.

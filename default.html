@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <title>{{ page.title }} | Justicia situada</title>
+  <link rel="stylesheet" href="/assets/css/style.css" />
+</head>
+<body>
+  <header>
+    <div class="container">
+      <a href="/"><strong>Justicia situada</strong></a>
+      <nav>
+        <a href="/index.html">Inicio</a>
+        <a href="/presentacion.html">Presentación</a>
+        <a href="/marco-teorico.html">Marco Teórico</a>
+        <a href="/glosario-conceptual.html">Glosario</a>
+        <a href="/recursos/publicaciones.txt">Recursos</a>
+      </nav>
+    </div>
+  </header>
+  <main class="container">
+    {% if page.banner %}
+      {% include banner.html %}
+    {% endif %}
+    {{ content }}
+  </main>
+  <footer>
+    <div class="container">
+      &copy; {{ "now" | date: "%Y" }} Llasmani López Valdés • 
+      <a href="mailto:llasmanilopez1@gmail.com">Contáctame</a> • 
+      <a href="https://llasmani.github.io/justicia-situada/">Sitio académico</a>
+    </div>
+  </footer>
+</body>
+</html>
