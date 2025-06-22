@@ -1,6 +1,8 @@
 ---
-title: Justicia situada
 layout: default
+title: Justicia situada
+subtitle: Un chat para construir pensamiento crítico colectivo y otros mundos desde los márgenes.
+banner: true
 ---
 
 # Justicia situada y pensamiento interseccional crítico desde el Sur Global
