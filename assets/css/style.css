@@ -1,1 +1,44 @@
-
+body {
+  font-family: 'Georgia', serif;
+  background: #ffffff;
+  color: #222;
+  margin: 0;
+  line-height: 1.6;
+}
+.container {
+  max-width: 900px;
+  margin: auto;
+  padding: 1rem 2rem;
+}
+header {
+  background: #f4f4f4;
+  padding: 0.5rem 0;
+  border-bottom: 1px solid #ddd;
+}
+header a {
+  margin-right: 1.5rem;
+  text-decoration: none;
+  color: #333;
+  font-weight: 600;
+}
+footer {
+  background: #f4f4f4;
+  text-align: center;
+  font-size: 0.9rem;
+  padding: 1rem 0;
+  border-top: 1px solid #ddd;
+}
+.banner {
+  background: url('/assets/img/banner.jpg') no-repeat center;
+  background-size: cover;
+  color: white;
+  padding: 4rem 2rem;
+  text-align: center;
+}
+.banner h1 {
+  margin: 0;
+  font-size: 2.5rem;
+}
+.banner .subtitle {
+  font-size: 1.2rem;
+}
