@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title }}</title>
+  <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
+</head>
+<body>
+  <header>
+    <h1>{{ site.title }}</h1>
+    <p>{{ site.description }}</p>
+    <hr>
+  </header>
+  <main>
+    {{ content }}
+  </main>
+  <footer>
+    <hr>
+    <p>Creado desde el Sur Global — Justicia situada © 2025</p>
+  </footer>
+</body>
+</html>

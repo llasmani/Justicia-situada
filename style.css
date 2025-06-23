@@ -1,0 +1,20 @@
+
+body {
+  font-family: 'Georgia', serif;
+  background-color: #f9f9f9;
+  color: #222;
+  line-height: 1.6;
+  max-width: 800px;
+  margin: auto;
+  padding: 2rem;
+}
+h1, h2, h3 {
+  color: #003366;
+}
+a {
+  color: #006699;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
