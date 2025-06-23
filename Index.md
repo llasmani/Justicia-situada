@@ -1,3 +1,8 @@
+---
+layout: default
+title: Justicia situada
+---
+
 # Justicia situada y pensamiento interseccional crítico desde el Sur Global
 
 Bienvenid@s a este espacio colaborativo y abierto para construir, compartir y transformar conocimiento desde una perspectiva interseccional, situada, crítica y comprometida con la justicia epistémica.
@@ -38,5 +43,3 @@ Consulta la sección [CONTRIBUTING.md](CONTRIBUTING.md) si deseas colaborar, pro
 ## 📫 Contacto
 
 Puedes escribir a: [llasmanilopez1@gmail.com](mailto:llasmanilopez1@gmail.com)
-
----
